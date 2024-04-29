@@ -15,6 +15,6 @@ Each translation has it's own folder. In these folders you will find the followi
 - And, of course, a Word file with the translation of the text.
 
 ### Translated articles
-1867. Fick, A., Untersuchungen über Muskel-arbeit
-1882. Fick, A., Mechanische Arbeit und Wärmeentwickelung bei der Muskeltätigkeit
-1904. Frank, O.,  Thermodynamik des Muskels
+(1867) Fick, A., Untersuchungen über Muskel-arbeit
+(1882) Fick, A., Mechanische Arbeit und Wärmeentwickelung bei der Muskeltätigkeit
+(1904) Frank, O.,  Thermodynamik des Muskels
