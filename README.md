@@ -4,7 +4,7 @@ I am very interested in the history of science in my field: energetics and muscl
 ## Method
 1. I performed OCR using ABBY FineReader.
 2. I made some manual changes and edits.
-3. I exported this to a text file, which I then translated into English using DeepL
+3. I exported this to a text file, which I then translated into English using DeepL.
 
 ## Files
 ### Files available per article
