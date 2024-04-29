@@ -7,7 +7,7 @@ I am very interested in the history of science in my field: energetics and muscl
 3. I exported this to a text file, which was then translated into English using Deep
 
 ## Files
-## Files available per article
+### Files available per article
 Each translation has it's own folder. In these folders you will find the following files:
 - The original pdf file.
 - A pdf file that has been OCR'd (i.e. you can copy and paste the text!).
